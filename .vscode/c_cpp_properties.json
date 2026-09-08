@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "compilerPath": "search-ms:displayname=Résultats%20de%20la%20recherche%20dans%20bin&crumb=System.Generic.String%3Agc&crumb=location:C%3A%5CProgram%20Files%5CMicrosoft%20Visual%20Studio%5C2022%5CCommunity%5CCommon7%5CIDE%5CCommonExtensions%5CMicrosoft%5CTeamFoundation%5CTeam%20Explorer%5CGit%5Cmingw64%5Cbin",
+      "cStandard": "${default}",
+      "cppStandard": "${default}",
+      "intelliSenseMode": "windows-gcc-x64",
+      "compilerArgs": [
+        ""
+      ]
+    }
+  ],
+  "version": 4
+}
